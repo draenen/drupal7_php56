@@ -5,11 +5,11 @@ Vagrant.require_version '>= 1.8.6'
 
 # Vagrant configuration.
 vconfig = {
-  "box" => "geerlingguy/ubuntu1404",
+  "box" => "ubuntu/trusty64",
   "user" => "vagrant",
   "hostname" => "drupal7-php56.dev",
   "machine_name" => "drupal7_php56",
-  "ip" => "192.168.50.20",
+  "ip" => "192.168.50.10",
   "memory" => "1024",
   "cpus" => "2"
 }

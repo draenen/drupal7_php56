@@ -2,7 +2,7 @@
 # Vagrant + Ansible development VM for Drupal 7 on PHP 5.6
 This project creates a VM for local Drupal development, built with Vagrant + Ansible. This is customized version of the the [Drupal VM](https://www.drupalvm.com/) project designed specifically for [Monarch Digital's](https://www.monarchdigital.com) workflow.
 
-By default, the following will be installed on an Ubuntu 16.04 linux VM:
+By default, the following will be installed on an Ubuntu 14.04 linux VM:
 
   - Apache 2.4.x
   - PHP 5.6.x
