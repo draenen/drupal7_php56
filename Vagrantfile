@@ -9,7 +9,7 @@ vconfig = {
   "user" => "vagrant",
   "hostname" => "drupal7-php56.dev",
   "machine_name" => "drupal7_php56",
-  "ip" => "192.168.50.10",
+  "ip" => "192.168.50.20",
   "memory" => "1024",
   "cpus" => "2"
 }

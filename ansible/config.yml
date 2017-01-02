@@ -17,7 +17,7 @@ apache_mods_enabled:
 extra_packages:
   - sqlite
 
-drush_version: "master"
+drush_version: "8.x"
 drush_keep_updated: true
 drush_composer_cli_options: "--prefer-dist --no-interaction"
 
